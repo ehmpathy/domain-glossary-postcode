@@ -12,7 +12,7 @@ enable static-type checks for postcodes
 - `isPostcode`
 
 declare useful procedures to operate on postcodes
-- e.g., `getGeocodeOfPostcode`
+- e.g., `getCentroidOfPostcode`
 
 
 # install
@@ -42,6 +42,6 @@ const postcode: Postcode = isPostcode.assure('33127');
 ### get the geocode of a postcode
 
 ```ts
-const centroid: Geocode = getGeocodeOfPostcode('33127')
+const centroid: Geocode = getCentroidOfPostcode('33127')
 ```
 

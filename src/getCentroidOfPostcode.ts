@@ -1,7 +1,7 @@
 import { UnexpectedCodePathError } from '@ehmpathy/error-fns';
+import { Geocode } from 'domain-glossary-geocode';
 import zipcodes from 'zipcodes';
 
-import { Geocode } from './domain/Geocode';
 import { Postcode } from './domain/Postcode';
 
 export const getCentroidOfPostcode = (input: Postcode): Geocode => {
