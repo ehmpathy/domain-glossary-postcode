@@ -1,2 +1,3 @@
 export * from './domain/Postcode';
-export * from './getCentroidOfPostcode';
+export * from './logic/getCentroidOfPostcode';
+export * from './logic/getPostcodesByProximity';
