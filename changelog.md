@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/ehmpathy/domain-glossary-postcode/compare/v1.0.1...v1.1.0) (2025-06-23)
+
+
+### Features
+
+* **proximity:** enable get postcodes by proximity ([ffdcd18](https://github.com/ehmpathy/domain-glossary-postcode/commit/ffdcd187c7615baa2ad1fa3b07f411e9e0239f7c))
+
+
+### Bug Fixes
+
+* **practs:** bump to latest best ([3e2d101](https://github.com/ehmpathy/domain-glossary-postcode/commit/3e2d101237d74fa9ea44928f8fc89de4f60d2482))
+
 ## [1.0.1](https://github.com/ehmpathy/domain-glossary-postcode/compare/v1.0.0...v1.0.1) (2024-12-12)
 
 
